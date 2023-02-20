@@ -1,0 +1,58 @@
+.hello {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 72px;
+  font-weight: lighter;
+  text-align: center;
+}
+
+body {
+  background: darkblue;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  display: flex;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 50px;
+  margin-bottom: 40px;
+}
+
+.container2 {
+  display: flex;
+  align-items: center;
+  width: 500px;
+  height: 500px;
+  background-color: beige;
+}
+.box {
+  background: wheat;
+  width: 100px;
+  height: 100px;
+  border-radius: 15px;
+  border-width: 5px;
+  border-color: goldenrod;
+  border-style: double;
+  padding: 30px;
+}
+.box2 {
+  background: chocolate;
+  width: 100px;
+  height: 100px;
+  border-radius: 15px;
+  border-width: 5px;
+  border-color: greenyellow;
+  border-style: dotted;
+  padding: 30px;
+}
+
+.box3 {
+  background: grey;
+  width: 100px;
+  height: 300px;
+}
+.box4 {
+  background: gray;
+  width: 100px;
+  height: 100px;
+}
